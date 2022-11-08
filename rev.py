@@ -1,5 +1,5 @@
-# n=int(input("enter the number"))
-n=746
+n=int(input("enter the number"))
+# n=746
 rev=0
 
 while(n!=0):
